@@ -5,7 +5,7 @@
   <a href="https://vk.com/subzero1995">
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=vpasha1019&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=pasha1019&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi everyone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,4 +20,4 @@ I am a Beginner Developer from Russia.<br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PC" width="40" height="40"/>&nbsp;
 </div>
-:fire: My Stats :
+:fire: My Stats :<br />
