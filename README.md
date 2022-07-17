@@ -11,8 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 :man_technologist: About Me :
-I am a Beginner Developer from Russia.
----
+I am a Beginner Developer from Russia.<br />
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy"  alt="SQLA" width="40" height="40"/>&nbsp;
