@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/zQhFEBrX6plKg/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/subzero1995">
+    <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge"/>
 </div>
