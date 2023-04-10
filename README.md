@@ -17,6 +17,7 @@ I am a Beginner Developer from Russia.<br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Py" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Linux" width="40" height="40"/>&nbsp;
+  
 </div>
 :fire: My Stats :<br />
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pasha1011)](https://github.com/pasha1019/leetcode-stats)
