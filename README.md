@@ -4,7 +4,8 @@
 <div id="badges">
   <a href="https://vk.com/subzero1995">
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge"/>
-  <a href="My Leetcode: https://leetcode.com/pasha1011">
+  <a href="https://leetcode.com/pasha1011">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=pasha1019&style=flat-square&color=blue" alt=""/>
 <h1>
