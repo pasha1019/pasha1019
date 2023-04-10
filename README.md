@@ -4,6 +4,7 @@
 <div id="badges">
   <a href="https://vk.com/subzero1995">
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge"/>
+  <a href="My Leetcode: https://leetcode.com/pasha1011">
 </div>
 <img src="https://komarev.com/ghpvc/?username=pasha1019&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -12,7 +13,6 @@
 </h1>
 :man_technologist: About Me :
 I am beginner developer and QA-ingeneer from Russia.<br />
-My Leetcode: https://leetcode.com/pasha1011/
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Py" width="40" height="40"/>&nbsp
