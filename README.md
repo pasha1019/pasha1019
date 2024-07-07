@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,github,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,figma,github,linux&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=light)](https://skillicons.dev)
 <!-- django,fastapi,flask,go,grafana,kubernetes,selenium,rabbitmq,sqlite-->
 # 📊 GitHub Stats:
