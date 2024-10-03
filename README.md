@@ -9,28 +9,29 @@ I study automated and load testing on pet projects.<br/>
  Bug tracking system:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
-<img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/><br/> 
+<img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
+ [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)<br/> 
  Tools: 
  ![My Skills](https://skillicons.dev/icons?i=postman&theme=light)
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles" width="40" height="40"/><br/>
  Infrastructure:
- ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,sentry&theme=light)<br/>
+ ![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,&theme=light)<br/>
  VCS:
-  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)<br/>
  CI/CD:
  [![My Skills](https://skillicons.dev/icons?i=jenkins,githubactions&theme=light)](https://skillicons.dev)<br/>
  Monitoring/logs:
- [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch&theme=light)](https://skillicons.dev)<br/>
+ [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus&theme=light)](https://skillicons.dev)<br/>
  Mobile QA:
- [![My Skills](https://skillicons.dev/icons?i=androidstudio,figma&theme=light)](https://skillicons.dev)<br/> 
+ [![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://skillicons.dev)<br/> 
  Database:
  [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)<br/>
  Frontend:
  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br/>
  Backend:
- [![My Skills](https://skillicons.dev/icons?i=python,js,selenium,cypress&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,selenium&theme=light)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
