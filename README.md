@@ -31,6 +31,7 @@ I study automated and load testing on pet projects.<br/>
  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br/>
  Backend:
  [![My Skills](https://skillicons.dev/icons?i=python,selenium&theme=light)](https://skillicons.dev)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>
 
 
 # 📊 GitHub Stats:
