@@ -11,7 +11,7 @@ I study automated and load testing on pet projects.<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
 <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/><br/> 
  Tools: 
- ![My Skills](https://skillicons.dev/icons?i=postman,figma&theme=light)
+ ![My Skills](https://skillicons.dev/icons?i=postman,figma,bash&theme=light)
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles" width="40" height="40"/><br/>
