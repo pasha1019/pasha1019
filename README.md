@@ -14,11 +14,13 @@ I study automated and load testing on pet projects.<br/>
  ![My Skills](https://skillicons.dev/icons?i=postman,figma,bash&theme=light)
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles" width="40" height="40"/><br/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="jmeter" alt="jmeter" width="80" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" title="swagger" alt="swagger" width="40" height="40"/><br/>
  Infrastructure:
- ![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,&theme=light)<br/>
+ ![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,rabbitmq&theme=light)<br/>
  VCS:
-  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)<br/>
  CI/CD:
  [![My Skills](https://skillicons.dev/icons?i=jenkins,githubactions&theme=light)](https://skillicons.dev)<br/>
  Monitoring/logs:
@@ -32,6 +34,7 @@ I study automated and load testing on pet projects.<br/>
  Autotesting:
  [![My Skills](https://skillicons.dev/icons?i=python,selenium&theme=light)](https://skillicons.dev)
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>
+ 
 
 
 # 📊 GitHub Stats:
