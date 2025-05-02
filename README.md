@@ -28,7 +28,8 @@ I study automated and load testing on pet projects.<br/>
  Mobile QA:
  [![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://skillicons.dev)<br/> 
  Database:
- [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)<br/>
+ [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/330px-Oracle_logo.svg.png" title="pytest" alt="pytest" width="80" height="40"/><br/>
  Frontend:
  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br/>
  Autotesting:
