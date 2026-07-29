@@ -58,10 +58,10 @@ I combine a strong technical background in system administration and team leader
 # 📌 My Projects
 
 <!-- Добавьте ссылки на ваши репозитории с автотестами, когда они появятся -->
-- https://github.com/pasha1019/autotests_with_python
 - https://github.com/pasha1019/Diplom_1
 - https://github.com/pasha1019/Diplom_2
 - https://github.com/pasha1019/Diplom_3
+- https://github.com/pasha1019/autotests_with_python
 - 🔭 Currently working on: Python autotests for REST API (PyTest + Requests)
 - 🌱 Learning: Kubernetes, advanced Python
 ---
