@@ -12,13 +12,12 @@ I combine a strong technical background in system administration and team leader
 <!-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/your-profile) | [HH.ru](https://hh.ru/resume/your-resume-id)-->
 
 ---
-
 # 💻 Tech Stack:
 
 **Bug tracking system:**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
-![Qase](https://img.shields.io/badge/Qase-6C5CE7?style=for-the-badge&logoColor=white)
+![TestIt](https://img.shields.io/badge/TestIt-6C5CE7?style=for-the-badge&logoColor=white)
 
 **Tools:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,14 +30,14 @@ I combine a strong technical background in system administration and team leader
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Infrastructure:**
-![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=light)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,rabbitmq,redis&theme=light)
 
 **VCS:**
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)
 
 **CI/CD:**
 ![My Skills](https://skillicons.dev/icons?i=jenkins,githubactions&theme=light)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 **Monitoring/Logs:**
 ![My Skills](https://skillicons.dev/icons?i=grafana,prometheus&theme=light)
@@ -51,10 +50,10 @@ I combine a strong technical background in system administration and team leader
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Autotesting:**
-![My Skills](https://skillicons.dev/icons?i=python,pytest&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python&theme=light)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 # 📌 My Projects
