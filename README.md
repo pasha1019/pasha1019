@@ -16,42 +16,44 @@ I combine a strong technical background in system administration and team leader
 # 💻 Tech Stack:
 
 **Bug tracking system:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
-<img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
+![Qase](https://img.shields.io/badge/Qase-6C5CE7?style=for-the-badge&logoColor=white)
 
 **Tools:**
-![My Skills](https://skillicons.dev/icons?i=postman,figma,bash&theme=light)
-<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="jmeter" alt="jmeter" width="80" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" title="swagger" alt="swagger" width="40" height="40"/>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-777BB4?style=for-the-badge&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-FF6600?style=for-the-badge&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Infrastructure:**
-![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,rabbitmq&theme=light)
+![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=light)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **VCS:**
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)
 
 **CI/CD:**
-[![My Skills](https://skillicons.dev/icons?i=jenkins,githubactions&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=jenkins,githubactions&theme=light)
 
 **Monitoring/Logs:**
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=grafana,prometheus&theme=light)
 
 **Mobile QA:**
-[![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)
 
 **Database:**
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/330px-Oracle_logo.svg.png" title="oracle" alt="oracle" width="80" height="40"/>
+![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Autotesting:**
-[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" title="selenium" alt="selenium" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Requests_Python_Logo.png" title="requests" alt="requests" width="40" height="40"/>
+![My Skills](https://skillicons.dev/icons?i=python,pytest&theme=light)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
