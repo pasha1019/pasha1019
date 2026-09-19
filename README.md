@@ -57,14 +57,24 @@ I combine a strong technical background in system administration and team leader
 
 # 📌 My Projects
 
-<!-- Добавьте ссылки на ваши репозитории с автотестами, когда они появятся -->
-- https://github.com/pasha1019/Diplom_1
-- https://github.com/pasha1019/Diplom_2
-- https://github.com/pasha1019/Diplom_3
-- https://github.com/pasha1019/autotests_with_python
-- https://github.com/pasha1019/Sprint_9
-- 🔭 Currently working on: Python autotests for REST API (PyTest + Requests)
-- 🌱 Learning: Kubernetes, advanced Python
----
+## 🔝 Featured
+
+**[Diplom_3](https://github.com/pasha1019/Diplom_3)** — UI-автотесты для Stellar Burgers
+Page Object Model, 17 тест-кейсов × 2 браузера (Chrome + Firefox, headless) = 34 прогона. Регистрация пользователей через API, explicit waits вместо `sleep`, Allure-отчёты, линтинг ruff + mypy.
+`Python` `Selenium 4` `Pytest` `Allure` `Faker`
+
+**[Sprint_final_project](https://github.com/pasha1019/Sprint_final_project)** — API-автотесты для сервиса объявлений «Доска»
+Полный CRUD объявлений (создание/редактирование/удаление) + проверка прав доступа (чужое объявление → 401). Валидация ответов API через Pydantic-схемы.
+`Python` `Pytest` `Requests` `Pydantic` `Faker`
+
+**[Sprint_9](https://github.com/pasha1019/Sprint_9)** — UI-автотесты для Foodgram с полным CI/CD
+Регистрация, авторизация, создание рецепта. Тесты запускаются в Docker + Selenoid, пайплайн — GitHub Actions с выгрузкой Allure-отчёта как артефакта сборки.
+`Python` `Selenium` `Pytest` `Allure` `Docker` `GitHub Actions`
+
+## Other projects
+
+- **[Diplom_2](https://github.com/pasha1019/Diplom_2)** — API + UI тестирование Stellar Burgers (регистрация, логин, заказы, обновление профиля). `Python` `Pytest` `Allure` `Requests`
+- **[autotests_with_python](https://github.com/pasha1019/autotests_with_python)** — UI-автотесты с Page Object Model, контейнеризованные через Docker + GitHub Actions. `Python` `Selenium` `Docker` `CI/CD`
+- **[Diplom_1](https://github.com/pasha1019/Diplom_1)** — юнит-тесты (100% покрытие) для доменных классов Stellar Burgers. `Python` `Pytest` `mypy`
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
